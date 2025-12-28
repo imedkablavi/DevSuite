@@ -62,7 +62,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/devsuite/devsuite.git
+git clone https://github.com/imedkablavi/devsuite.git
 cd DevSuite
 
 # Create virtual environment (recommended)
